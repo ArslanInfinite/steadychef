@@ -1,3 +1,3 @@
-module Steadychef
+module SteadyChef
   VERSION = "0.1.0"
 end

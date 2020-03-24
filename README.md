@@ -1,9 +1,6 @@
 # Steadychef
 
-Welcome to steadychef, NYC's premier guide on transforming you from a cooking novice to a cuisine genius. Take a look at the many different classes being offered around the city, designed specifically for beginners looking to become culinary experts.  
-<!-- Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/steadychef`. To experiment with that code, run `bin/console` for an interactive prompt. -->
-
-<!-- TODO: Delete this and the text above, and describe your gem -->
+Welcome to steadychef, the premier guide on transforming you from a cooking novice to a cuisine genius. Take a look at the many different classes being offered around New York City and its surrounding areas, designed specifically for beginners looking to become culinary experts.  
 
 ## Installation
 
@@ -33,4 +30,4 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/steadychef.
+Bug reports and pull requests are welcome on GitHub at https://github.com/arslaninfinite/steadychef.
