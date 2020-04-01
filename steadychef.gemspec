@@ -8,15 +8,15 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Arslan Ali"]
   spec.email         = ["ali.arslan319@gmail.com"]
 
-  spec.summary       = %q{This is stuff.}
-  spec.description   = %q{This is more stuff.}
-  spec.homepage      = "http://www.google.com"
+  spec.summary       = %q{CLI app for culinary courses.}
+  spec.description   = %q{This app scrapes information from CourseHorse and brings it to the CLI}
+  spec.homepage      = "https://github.com/ArslanInfinite/steadychef"
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "http://www.google.com"
-  spec.metadata["changelog_uri"] = "http://www.google.com"
+  spec.metadata["source_code_uri"] = "https://github.com/ArslanInfinite/steadychef"
+  spec.metadata["changelog_uri"] = "https://github.com/ArslanInfinite/steadychef"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
@@ -28,7 +28,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 2.0"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", "~> 12.3.3"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "pry"
   spec.add_dependency "nokogiri"
